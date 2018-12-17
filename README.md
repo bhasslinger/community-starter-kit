@@ -4,7 +4,9 @@
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Create a new issue
+Open a new pull request
+Merge their first pull request
 
 ## Getting started
 
